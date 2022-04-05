@@ -1,29 +1,29 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/">
-  <img align="left" alt="Umid's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Bekzod's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/RustamovUmidbek">
+<a href="https://twitter.com/BaratovBekzodbek">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/umid-rustamov/">
-  <img align="left" alt="Umid's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/Bekzod-Baratov/">
+  <img align="left" alt="Bekzod's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/">
-  <img align="left" alt="Umid's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Bekzod's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=magicsoftuz.magicsoftuz)
 
 <br />
 
-hi, i'm [Umid Rustamov](https://magicsoft.uz/), a passionate self-taught full stack web developer and a freelance software engineer from Uzbekistan. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Bekzod Baratov](https://magicsoft.uz/), a passionate self-taught full stack web developer and a freelance software engineer from Uzbekistan. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:rustamov.umidbek@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:Baratov.Bekzodbek@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
