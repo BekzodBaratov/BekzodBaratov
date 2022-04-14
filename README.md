@@ -60,11 +60,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- TODO-IST:END -->
 
 
-
-<h1 align="center">
-  Welcome to <b><a href="https://github.com/mirrione">Mirrione</a></b>'s profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
 <p align="center">
   <a href="https://github.com/mirrione?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mirrione"/></a>
