@@ -12,7 +12,7 @@
   <img align="left" alt="Bekzod's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=magicsoftuz.magicsoftuz)
+![](https://visitor-badge.glitch.me/badge?page_id=BekzodBaratov.BekzodBaratov)
 
 <br />
 
@@ -77,8 +77,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=magicsoftuz&show_icons=true&theme=gotham" alt="MagicSoft.uz" />
 
- |                                                     Preview                                                     |
+<!--  |                                                     Preview                                                     |
  | :-------------------------------------------------------------------------------------------------------------: |
  | ![image](https://git-trophy-tests.vercel.app/?username=ThnksCJ&theme=algolia&no-frame=true&column=7)![image](https://user-images.githubusercontent.com/20955511/103046275-5c3c6080-4590-11eb-8c86-0656d3477a56.png)                                                         |
-
+ -->
 
