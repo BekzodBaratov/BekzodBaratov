@@ -75,7 +75,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=magicsoftuz&show_icons=true&theme=gotham" alt="MagicSoft.uz" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BekzodBaratov&show_icons=true&theme=gotham" alt="BekzodBaratov" />
 
 <!--  |                                                     Preview                                                     |
  | :-------------------------------------------------------------------------------------------------------------: |
