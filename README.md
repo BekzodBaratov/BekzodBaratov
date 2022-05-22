@@ -1,6 +1,6 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
          
-## I'm Bekzod Baratov & I'm a enginer student at TTUU University.
+## I'm Bekzod Baratov & I'm a enginer student at TTU University.
 - 👦 I want to be a skilled full stack Web developer. 
 
 - 💻 I’m a junior Web full stack developer
@@ -66,9 +66,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ##
 
-<p align="center">
+<!-- <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
+ <h2 align="center">GitHub Readme Stats</h2> -->
 
 <p align="center">
    <a href="https://github.com/BekzodBaratov">
