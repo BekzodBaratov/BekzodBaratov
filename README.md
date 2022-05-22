@@ -11,9 +11,10 @@
 - 🧩 Skills: Adobe XD, HTML5, CSS3, SCSS, JS(6+), ReactJS, NodeJS , ExpressJS, MongoDB, PostgreSQL, Axios , and etc
 - 🖼 Other skills: Laravel Framework, UX/UI Design
 - 🔧 IDE: VsCode(or Visual Studio) ...
- 
-##
 
+
+<!--   <img align="right" alt="GIF" src="https://github.com/BekzodBaratov/BekzodBaratov/blob/master/code.gif?raw=true" width="500" height="320" /> -->
+  
 - 💼 any freelance work? do reach, [email](mailto:bekzodbaratov18@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
@@ -33,8 +34,9 @@
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 12 mins   ██████████████▒░░░░░░░░░░   57.50 % 
-React        3 hrs 50 mins   ██████████▓░░░░░░░░░░░░░░   42.46 % 
+JavaScript   10 hrs 12 mins   ██████████████▒░░░░░░░░░░   23.52 % 
+React        13 hrs 50 mins   ██████████▓░░░░░░░░░░░░░░   34.62 % 
+nodeJS        16 hrs 58 mins   ████████████████▓░░░░░░░   41.83 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -45,8 +47,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
 🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 6 tasks so far           
+🌸  Completed 2 tasks today           
+✅  Completed 8 tasks so far           
 ⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
 
@@ -61,22 +63,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </p>
 
 <br />
-
-### Hello there 👋   
-         
-## I'm Otamurod Safarov & I'm a CSE student at INHA University.
-- 👦 I want to be a skilled backend software developer. 
-
-- 💻 I’m a junior Java backend developer
-- 🔭 I’m currently focusing on Android Development
-- 📫 To reach me: [Otamurod](https://otamurod.github.io) 
-- ⚡ [My portfolio](https://github.com/otamurod)
--  ⚡ [My Resume](https://github.com/otamurod/resume)
-- 🧩 Skills: C++, Java, Kotlin, Php, HTML5, CSS3, MySQL, Pascal, and etc
-- 🖼 Other skills: Laravel Framework, UX/UI Design
-- 💻 OS: Ubuntu 20.04 LTS, Windows 10, Android
-- 🔧 IDE: CLion, VsCode(or Visual Studio), Android Studio, PhpStorm, Intellij IDEA Ultimate ...
-
 
 ##
 
