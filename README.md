@@ -13,7 +13,7 @@
 - 🔧 IDE: VsCode(or Visual Studio) ...
 
 
-  <img align="right" alt="GIF" src="https://github.com/BekzodBaratov/BekzodBaratov/blob/master/code.gif?raw=true" width="500" height="320" />
+<!--   <img align="right" alt="GIF" src="https://github.com/BekzodBaratov/BekzodBaratov/blob/master/code.gif?raw=true" width="500" height="320" /> -->
   
 - 💼 any freelance work? do reach, [email](mailto:bekzodbaratov18@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
