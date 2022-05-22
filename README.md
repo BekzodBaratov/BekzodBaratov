@@ -71,14 +71,37 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <br />
 
-## Snake Game
-![Snake animation](https://github.com/BekzodBaratov/BekzodBaratov/blob/output/github-contribution-grid-snake.svg)
+### Hello there 👋   
+         
+## I'm Otamurod Safarov & I'm a CSE student at INHA University.
+- 👦 I want to be a skilled backend software developer. 
+
+- 💻 I’m a junior Java backend developer
+- 🔭 I’m currently focusing on Android Development
+- 📫 To reach me: [Otamurod](https://otamurod.github.io) 
+- ⚡ [My portfolio](https://github.com/otamurod)
+-  ⚡ [My Resume](https://github.com/otamurod/resume)
+- 🧩 Skills: C++, Java, Kotlin, Php, HTML5, CSS3, MySQL, Pascal, and etc
+- 🖼 Other skills: Laravel Framework, UX/UI Design
+- 💻 OS: Ubuntu 20.04 LTS, Windows 10, Android
+- 🔧 IDE: CLion, VsCode(or Visual Studio), Android Studio, PhpStorm, Intellij IDEA Ultimate ...
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BekzodBaratov&show_icons=true&theme=gotham" alt="BekzodBaratov" />
+##
 
-<!--  |                                                     Preview                                                     |
- | :-------------------------------------------------------------------------------------------------------------: |
- | ![image](https://git-trophy-tests.vercel.app/?username=ThnksCJ&theme=algolia&no-frame=true&column=7)![image](https://user-images.githubusercontent.com/20955511/103046275-5c3c6080-4590-11eb-8c86-0656d3477a56.png)                                                         |
- -->
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">GitHub Readme Stats</h2>
+
+<p align="center">
+   <a href="https://github.com/BekzodBaratov">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BekzodBaratov&show_icons=true&theme=tokyonight&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekzodBaratov&show_icons=true&theme=tokyonight&layout=compact" alt="BekzodBaratov" />
+  </a>
+</p>
+
+<p align="center">
+  <img height="70em" src="http://cdn.onlinewebfonts.com/svg/img_529337.png"
+</p>
+
 
