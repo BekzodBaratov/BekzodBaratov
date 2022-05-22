@@ -43,8 +43,6 @@
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Azizjon003&show_icons=true&theme=gotham" alt="Azizjon003" />
-
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
