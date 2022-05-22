@@ -11,10 +11,9 @@
 - 🧩 Skills: Adobe XD, HTML5, CSS3, SCSS, JS(6+), ReactJS, NodeJS , ExpressJS, MongoDB, PostgreSQL, Axios , and etc
 - 🖼 Other skills: Laravel Framework, UX/UI Design
 - 🔧 IDE: VsCode(or Visual Studio) ...
+ 
+##
 
-
-<!--   <img align="right" alt="GIF" src="https://github.com/BekzodBaratov/BekzodBaratov/blob/master/code.gif?raw=true" width="500" height="320" /> -->
-  
 - 💼 any freelance work? do reach, [email](mailto:bekzodbaratov18@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
