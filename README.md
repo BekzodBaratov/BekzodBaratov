@@ -1,24 +1,16 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/">
-  <img align="left" alt="Bekzod's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/BaratovBekzodbek">
-  <img align="left" alt="Bekzod's Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/Bekzod-Baratov/">
-  <img align="left" alt="Bekzod's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.spotify.com/uz/account/overview/?utm_source=spotify&utm_medium=menu&utm_campaign=your_account">
-  <img align="left" alt="Bekzod's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+         
+## I'm Bekzod Baratov & I'm a enginer student at TTUU University.
+- 👦 I want to be a skilled full stack Web developer. 
 
-![](https://visitor-badge.glitch.me/badge?page_id=BekzodBaratov.BekzodBaratov)
-
-<br />
-
-hi, i'm [Bekzod Baratov](https://BekzodBaratov.uz/), a passionate self-taught full stack web developer and a freelance software engineer from Uzbekistan. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+- 💻 I’m a junior Web full stack developer
+- 🔭 I’m currently focusing on PC Development
+- 📫 To reach me: [BekzodBaratov](https://BekzodBaratov.github.io) 
+- ⚡ [My portfolio](https://github.com/BekzodBaratov)
+-  ⚡ [My Resume](https://github.com/BekzodBaratov/resume)
+- 🧩 Skills: Adobe XD, HTML5, CSS3, SCSS, JS(6+), ReactJS, NodeJS , ExpressJS, MongoDB, PostgreSQL, Axios , and etc
+- 🖼 Other skills: Laravel Framework, UX/UI Design
+- 🔧 IDE: VsCode(or Visual Studio) ...
 
 
   <img align="right" alt="GIF" src="https://github.com/BekzodBaratov/BekzodBaratov/blob/master/code.gif?raw=true" width="500" height="320" />
