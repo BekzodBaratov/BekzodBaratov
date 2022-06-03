@@ -1,4 +1,4 @@
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20%" height="20px>
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%">
          
 ## I'm Bekzod Baratov & I'm a enginer student at TTU University.
 - 👦 I want to be a skilled full stack Web developer. 
