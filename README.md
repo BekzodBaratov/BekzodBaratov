@@ -55,10 +55,6 @@ nodeJS        16 hrs 58 mins   ████████████████�
 
 ##
 
-## 💻 Last month's activity
-<!-- https://github.com/clevercoderr/github-readme-activity-graph -->
-<a href=""><img alt="BekzodBaratov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BekzodBaratov&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/BekzodBaratov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
