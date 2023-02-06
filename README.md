@@ -6,7 +6,7 @@
 - 💻 I’m a junior Web full stack developer
 - 🔭 I’m currently focusing on PC Development
 - 📫 To reach me: [BekzodBaratov](https://BekzodBaratov.github.io) 
-- ⚡ [My portfolio](https://github.com/BekzodBaratov)
+- ⚡ [My portfolio](https://bekzods-portfolio.netlify.app)
 -  ⚡ [My Resume](https://github.com/BekzodBaratov/resume)
 - 🧩 Skills: Adobe XD, HTML5, CSS3, SCSS, JS(6+), ReactJS, NodeJS , ExpressJS, MongoDB, PostgreSQL, Axios , and etc
 - 🖼 Other skills: Laravel Framework, UX/UI Design
