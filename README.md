@@ -3,9 +3,9 @@
 ## I'm Bekzod Baratov & I'm a enginer student at TTU University.
 - 👦 I want to be a skilled full stack Web developer. 
 
-- 💻 I’m a junior Web full stack developer
-- 🔭 I’m currently focusing on PC Development
-- 📫 To reach me: [BekzodBaratov](https://BekzodBaratov.github.io) 
+- 💻 I’m a Web full stack developer
+- 🔭 I’m currently focusing on Front-end Development
+- 📫 To reach me: [BekzodBaratov](https://bekzods-portfolio.netlify.app) 
 - ⚡ [My portfolio](https://bekzods-portfolio.netlify.app)
 -  ⚡ [My Resume](https://github.com/BekzodBaratov/resume)
 - 🧩 Skills: Adobe XD, HTML5, CSS3, SCSS, JS(6+), ReactJS, NodeJS , ExpressJS, MongoDB, PostgreSQL, Axios , and etc
